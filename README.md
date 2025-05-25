@@ -1,3 +1,8 @@
+## 🚀 Run the Project
+
+After starting backend and frontend, open the project here:  
+[Open Blood Donation App]  (http://localhost:3000)
+
 # Blood Donation Web App
 
 This project is a web application designed to facilitate **blood donation and requests**, connecting donors with people in need.
